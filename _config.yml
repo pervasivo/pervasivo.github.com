@@ -1,7 +1,0 @@
-url: http://pervasivo.com.br
-name: O site do pervasivo
-description: O site do pervasivo
-destination: _site
-permalink: /:categories/:title
-markdown: kramdown
-exclude: [make.cmd, .nojekyll, CNAME]
